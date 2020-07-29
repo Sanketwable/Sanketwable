@@ -12,7 +12,7 @@
 ## Github Language Profile 
 
 <a href="https://ionicabizau.github.io/github-profile-languages/api.html?sanketwable">
-<img src = 'images/GLP.png' width = 20px>
+<img src = 'images/GLP.png' width = 450px>
 </a>
 
 
