@@ -19,23 +19,23 @@
 ####  📫 How to reach me 
 
 <a href="https://www.codechef.com/users/sanket_wable">
-<img src = 'images/codechef.png' width = 40px>
+<img src = 'https://github.com/Sanketwable/Sanketwable/blob/master/images/codechef.png' width = 40px>
 </a>                
 
 <a href="http://codeforces.com/profile/WableSanket">
-<img src = 'images/codeforces.png' width = 40px>
+<img src = 'https://github.com/Sanketwable/Sanketwable/blob/master/images/codeforces.png' width = 40px>
 </a>
 
 <a href="https://www.linkedin.com/in/wablesanket/">
-<img src = 'images/linkedin.png' width = 40px>
+<img src = 'https://github.com/Sanketwable/Sanketwable/blob/master/images/linkedin.png' width = 40px>
 </a>
 
 <a href="https://www.facebook.com/sanketwable12/">
-<img src = 'images/fb.png' width = 40px>
+<img src = 'https://github.com/Sanketwable/Sanketwable/blob/master/images/fb.png' width = 40px>
 </a>
 
 <a href="https://www.instagram.com/wable_sanket_/">
-<img src = 'images/insta.png' width = 40px>
+<img src = 'https://github.com/Sanketwable/Sanketwable/blob/master/images/insta.png' width = 40px>
 </a>
 
 ##### Visit my [Portfolio](https://github.com/Sanketwable/Portfolio)
