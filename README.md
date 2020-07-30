@@ -44,4 +44,4 @@
 Download My
 <a href="https://drive.google.com/file/d/1xtTk5pl9APkr6UQjJaHi5U5X6RnaGpdW/view?usp=sharing" class="btn-hire" style="text-align: center; color:rgb(94, 255, 0);"><b>Resume</b></a>
 
-![HitCount](http://hits.dwyl.com/Sanketwable/Sanketwable.svg)
+![HitCount](http://hits.dwyl.com/Sanketwable.svg)
