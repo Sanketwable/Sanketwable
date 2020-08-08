@@ -1,3 +1,5 @@
+<img src = 'gif/gif.gif' width = 50px>
+
 ### Hi there 👋
 # I am 🇮🇳 ***WABLE SANKET***
 
