@@ -1,6 +1,10 @@
-<img src = 'gif/gif.gif' width = 50px>
-
 ### Hi there 👋
+
+<p align="center">
+<img src = 'https://github.com/Sanketwable/Sanketwable/blob/master/gif/gif.gif' width = 400px>
+</p>
+
+
 # I am 🇮🇳 ***WABLE SANKET***
 
 - 🔭 I’m currently working on <a href="https://github.com/Sanketwable/AutomatePI " class="btn-hire" style="text-align: center; color:rgb(94, 255, 0);"><b>AutomatePI</b></a> and also as a Backend Developer Intern <a href="https://www.advangelists.com" class="btn-hire" style="text-align: center; color:rgb(94, 255, 0);"><b>@Advangelists</b></a>
